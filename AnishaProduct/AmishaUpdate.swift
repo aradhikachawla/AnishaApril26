@@ -1,4 +1,4 @@
-public class ten{
+public class AmishaUpdate{
   public void addition(int a , int b){
   System.out.println("test";
   
